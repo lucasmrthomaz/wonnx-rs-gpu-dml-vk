@@ -1,3 +1,6 @@
+# WONNX Rust AI - DirectML/Vulkan Research
+
+--------------------------------------------------------------
 <center><img src="logo.svg" alt="WONNX" width="700"/></center>
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/webonnx/wonnx/rust.yml?branch=master)
