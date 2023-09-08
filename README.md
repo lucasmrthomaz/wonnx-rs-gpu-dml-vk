@@ -1,5 +1,8 @@
 # WONNX Rust AI - DirectML/Vulkan Research
 
+// TODO:
+- Good Summary
+
 --------------------------------------------------------------
 <center><img src="logo.svg" alt="WONNX" width="700"/></center>
 
